@@ -1,3 +1,5 @@
+## BASIC PYTHON EXERCİSES
+
 In this repo, there are 9 Basic Python exercises. 
   1. Calculator: Calculate the numbers entered by the user.
   2. Guess the Number: The computer picks a number 1-100 and the user tries to guess this number.
